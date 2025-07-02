@@ -7,8 +7,6 @@ function App() {
     <>
       <h1>Brag Space</h1>
 
-      
-
     </>
   )
 }
